@@ -1,3 +1,5 @@
+<!-- Vibe-coded with ✨ Claude -->
+
 # DeGiro Position Analyzer
 
 A Python tool to analyze DeGiro transactions and track current positions using FIFO (First In First Out) logic with support for live stock price fetching.
